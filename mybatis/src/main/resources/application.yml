@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mysql://mysql_dev:13306/yurun?useUnicode=true&characterEncoding=UTF-8&allowMultiQueries=true
+    username: root
+    password: root
+
+mybatis:
+  mapper-locations:
+    - classpath:mapper/*.xml

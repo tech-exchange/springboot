@@ -1,3 +1,6 @@
 /api/target/
 /api/api.iml
 /.idea/
+/mybatis/target/
+/mybatis/mybatis.iml
+/service/mybatis.iml
